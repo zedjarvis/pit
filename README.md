@@ -143,6 +143,16 @@ python -m unittest discover -s tests
 
 ---
 
+## Reflection
+
+**What do you love most about computing?**  
+I love the creative freedom computing offers—the ability to transform ideas into tangible solutions that can solve real-world problems or spark innovation. There's a certain joy in debugging a complex issue or optimizing an elegant piece of code that feels deeply rewarding.
+
+**If you could meet any scientist or engineer who died before A.D. 2000, whom would you choose, and why?**  
+I would choose Alan Turing. His groundbreaking work laid the foundation for modern computing and artificial intelligence. Meeting him would be an opportunity to discuss his visionary ideas and understand his perspective on how computers would evolve.
+
+---
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
